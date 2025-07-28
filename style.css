@@ -84,3 +84,11 @@ input::placeholder{
     color: rgba(128, 128, 128, 0.452);
     font-size: 14px;
 }
+
+.create-acct-button{
+    background-color: rgb(150, 218, 14);
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.108);
+}
